@@ -1,7 +1,7 @@
 Fluffle Puff
 ============
 
-Fluffle Puff Language is a programming language based on Brainfuck and the speech of everyone's favorite fluffy pony, [Fluffle Puff].
+Fluffle Puff Language is a programming language based on Brainfuck and the speech of everyone's favorite fluffy pony, Fluffle Puff.
 
 Conversion table
 ----------------
@@ -35,7 +35,7 @@ Hello World!
 Run
 ---
 ```
-% cat hello.fp > ./flufflepuff
+% cat hello.fp | ./flufflepuff
 ```
 ```
 % ./flufflepuff hello.fp
