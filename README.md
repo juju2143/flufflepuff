@@ -53,3 +53,5 @@ Links
 
 [Fluffle Puff's site]:http://askflufflepuff.tumblr.com
 [Juju the Developer's site]:http://juju2143.ca
+
+![Fluffle Puff](http://th02.deviantart.net/fs70/PRE/i/2013/110/f/6/fluffle_puff_by_mixermike622-d4l5y4r.png "Fluffle Puff")
