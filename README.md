@@ -47,7 +47,7 @@ That's really simple. For now.
 
 Implementations
 ---------------
-This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. Be sure to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here.
+This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. You'll want to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here, it will be greatly appreciated.
 
 * [Implementation in Javascript by Lunar Fire](http://lunarfire.info/flufflefuck/)
 
