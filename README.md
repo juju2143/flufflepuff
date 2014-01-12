@@ -1,7 +1,7 @@
-Fluffle Puff
-============
+BrainPuff
+=========
 
-Fluffle Puff Language is a programming language based on Brainfuck and the speech of everyone's favorite fluffy pony, Fluffle Puff.
+BrainPuff is a programming language based on Brainfuck and the speech of everyone's favorite fluffy pony, Fluffle Puff.
 
 Conversion table
 ----------------
@@ -23,7 +23,7 @@ Sample hello world in Brainfuck:
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
 
-Sample hello world translated in Fluffle Puff:
+Sample hello world translated in BrainPuff:
 ```
 pfpfpfpfpfpfpfpfpfpf*gasp*bpfpfpfpfpfpfpfbpfpfpfpfpfpfpfpfpfpfbpfpfpfbpfttttbl*pomf*bpfpf!bpf!pfpfpfpfpfpfpf!!pfpfpf!bpfpf!ttpfpfpfpfpfpfpfpfpfpfpfpfpfpfpf!b!pfpfpf!blblblblblbl!blblblblblblblbl!bpf!b!
 ```
@@ -49,7 +49,7 @@ Implementations
 ---------------
 This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. You'll want to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here, it will be greatly appreciated.
 
-* [Implementation in Javascript by Lunar Fire](http://lunarfire.info/flufflefuck/)
+* [Implementation in Javascript by Lunar Fire](http://lunarfire.info/brainpuff/)
 
 Links
 -----
