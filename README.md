@@ -32,8 +32,11 @@ Output:
 ```
 Hello World!
 ```
-Run
----
+Compile and Run
+---------------
+This project comes with a reference implementation written in C++.
+
+Just install ```flex```, then type ```make``` in a Linux, Mac OS X or Windows (with Cygwin) command prompt. Then you can run it like this:
 ```
 % cat hello.fp | ./flufflepuff
 ```
@@ -42,16 +45,17 @@ Run
 ```
 That's really simple. For now.
 
-Compile
--------
-Just install ```flex```, then type ```make``` in a Linux command prompt.
+Implementations
+---------------
+This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. Be sure to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here.
+
+* [Implementation in Javascript by Lunar Fire](http://lunarfire.info/flufflefuck/)
 
 Links
 -----
-[Fluffle Puff's site]
-<br/>[Juju the Developer's site]
-
-[Fluffle Puff's site]:http://askflufflepuff.tumblr.com
-[Juju the Developer's site]:http://juju2143.ca
+* [Fluffle Puff's blog](http://askflufflepuff.tumblr.com)
+* [Juju the Developer's website](http://juju2143.ca)
+* [Twitter](http://twitter.com/juju2143)
+* [Tumblr](http://juju2143.qc.to)
 
 ![Fluffle Puff](http://th02.deviantart.net/fs70/PRE/i/2013/110/f/6/fluffle_puff_by_mixermike622-d4l5y4r.png "Fluffle Puff")
