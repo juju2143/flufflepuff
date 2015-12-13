@@ -1,7 +1,7 @@
 BrainPuff
 =========
 
-BrainPuff is a programming language based on Brainfuck and the speech of everyone's favorite fluffy pony, Fluffle Puff.
+BrainPuff is a programming language based on Brainfuck and the speech of everypony's favorite fluffy pony, Fluffle Puff.
 
 Conversion table
 ----------------
