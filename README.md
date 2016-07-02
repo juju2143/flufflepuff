@@ -41,6 +41,9 @@ Just install ```flex```, then type ```make``` in a Linux, Mac OS X or Windows (w
 % cat hello.fp | ./flufflepuff
 ```
 ```
+% ./flufflepuff < hello.fp
+```
+```
 % ./flufflepuff hello.fp
 ```
 That's really simple. For now.
@@ -50,12 +53,13 @@ Implementations
 This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. You'll want to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here, it will be greatly appreciated.
 
 * [Implementation in Javascript by Lunar Fire](http://lunarfire.info/brainpuff/)
+* [Brainfuck/Brainpuff converter by Jared M.F.](https://gist.github.com/JaredMFProgramming/a914a5a22cb893c913ec7c0a84d602d2)
 
 Links
 -----
 * [Fluffle Puff's blog](http://askflufflepuff.tumblr.com)
 * [Juju the Developer's website](http://juju2143.ca)
 * [Twitter](http://twitter.com/juju2143)
-* [Tumblr](http://juju2143.qc.to)
+* [Tumblr](http://toasters,rocks)
 
 ![Fluffle Puff](http://th02.deviantart.net/fs70/PRE/i/2013/110/f/6/fluffle_puff_by_mixermike622-d4l5y4r.png "Fluffle Puff")
